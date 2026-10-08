@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite the related article listed under preferred-citation."
+title: "Prognostic gene-expression signature for radiotherapy outcome in HPV-negative HNSCC"
+type: software
+license: MIT
+authors:
+  - name: "Repository contributors"
+preferred-citation:
+  type: article
+  title: "Resistance of HNSCC cell models to pan-FGFR inhibition depends on the EMT phenotype associating with clinical outcome"
+  authors:
+    - family-names: Broghammer
+      given-names: Felix
+    - family-names: Korovina
+      given-names: Irina
+    - family-names: Gouda
+      given-names: Mahesh
+    - name: "et al."
+  journal: "Molecular Cancer"
+  volume: 23
+  start: 39
+  year: 2024
+  doi: "10.1186/s12943-024-01954-8"

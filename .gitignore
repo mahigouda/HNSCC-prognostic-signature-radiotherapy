@@ -1,0 +1,20 @@
+# data and outputs
+data/*
+!data/README.md
+results/*
+!results/README.md
+*.txt
+!requirements*.txt
+*.Rdata
+*.RData
+*.rds
+*.h5ad
+*.pdf
+*.svg
+*.png
+# R / Python / OS
+.Rhistory
+.Rproj.user/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
