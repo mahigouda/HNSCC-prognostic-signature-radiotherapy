@@ -1,0 +1,20 @@
+name: hnscc-survival
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - scikit-survival
+  - lifelines
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - tabulate
+  - scanpy
+  - jupytext
+  - pip
+  - pip:
+      - forestplot
